@@ -1,0 +1,9 @@
+{
+  "name": "zoopla-parser",
+  "version": "1.0.0",
+  "description": "Zoopla.co.uk parser",
+  "author": "",
+  "license": "",
+  "main": "main.js"
+}
+

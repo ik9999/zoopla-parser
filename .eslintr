@@ -1,0 +1,21 @@
+{
+  "extends": [
+    'standard',
+    'plugin:vue/recommended'
+  ],
+  "env": {
+    "browser": true,
+    "node": true,
+    "es6": true
+  },
+  "rules": {
+    "spaced-comment": 0,
+    no-var: 2,
+    semi: [2, always],
+    space-before-function-paren: [2, never],
+    yoda: 0,
+    arrow-parens: [2, "as-needed"],
+    arrow-spacing: 2,
+    dot-location: [2, "property"],
+  }
+}
